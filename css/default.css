@@ -7,7 +7,7 @@ body {
 }
 
 a {
-    color: green;
+    color: #8ae234;
 }
 
 a:active { 
@@ -20,13 +20,13 @@ a:visited {
 }
 
 div#header {
-    border-bottom: 2px solid green;
+    border-bottom: 2px solid #8ae234;
     margin-bottom: 30px;
     padding: 12px 0px 12px 0px;
 }
 
 div#logo a {
-    color: green;
+    color: #8ae234;
     float: left;
     font-size: 20px;
     font-weight: bold;
@@ -35,11 +35,11 @@ div#logo a {
 
 div#header #navigation {
     text-align: right;
-    color: green;
+    color: #8ae234;
 }
 
 div#header #navigation a {
-    color: green;
+    color: #8ae234;
     font-size: 20px;
     font-weight: bold;
     margin-left: 12px;
@@ -48,7 +48,7 @@ div#header #navigation a {
 }
 
 div#footer {
-    border-top: solid 2px green;
+    border-top: solid 2px #8ae234;
     color: #555;
     font-size: 12px;
     margin-top: 30px;
@@ -57,10 +57,10 @@ div#footer {
 }
 
 a.post-title {
-    color: green; 
+    color: #8ae234; 
 }
 
-em.post-title { color: green }
+em.post-title { color: #8ae234 }
 
 h1 {
     font-size: 19px;
