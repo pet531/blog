@@ -1,10 +1,14 @@
 <div>
   <a class="post-title" href="$url$"><h1>&nbsp $title$ </h1> </a>
-    <em class="post-title">Posted on $date$
+</div>
+$body$
+
+<div>
+<p><em class="post-title">tags: $tags$</em></p>
+<br>
+<em class="post-title">Posted on $date$
     $if(author)$
         by $author$
     $endif$</em>
-<p><em class="post-title">tags: $tags$</em></p>
-</div>
 
-$body$
+</div>

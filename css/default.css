@@ -60,7 +60,10 @@ a.post-title {
     color: #8ae234; 
 }
 
-em.post-title { color: #8ae234 }
+em.post-title {
+color: #8ae234;
+float: right;
+}
 
 h1 {
     font-size: 19px;
